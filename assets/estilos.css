@@ -1,0 +1,58 @@
+body {
+    background-image: url(https://static.videezy.com/system/resources/thumbnails/000/046/251/original/scene00121.JPG);
+    background-color: black;
+    background-size: 100%;
+
+}
+
+
+
+.principal {
+    margin-top: 10px;
+    margin-left: 7%;
+    width:60%;
+    box-shadow: 0px 0px 12px 2px;
+}
+#imagen{
+    text-align: center;
+}
+.contacto {
+    margin-top: 2%;
+    text-align: center;
+    margin-left: 7%;
+
+}
+
+p {
+    font-size: 23px;
+    color: white;
+}
+h1 {
+    font-size: 110px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: -10px;
+    margin-left: 20px;
+}
+a {
+    font-size: 20px;
+    font-style: oblique;
+    color: #6CCCD2;
+}
+
+img {
+    border-radius: 10%;
+
+}
+#contenedor {
+    border-radius: 10%;
+    margin-left: 2%;
+    margin-right: 2%;
+    color: aqua;
+}
+#redes{
+    text-align: center;
+    width: 100%;
+}
